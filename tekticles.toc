@@ -1,0 +1,24 @@
+## Interface: 110207,120000,120001
+
+## Title: tekticles
+## Notes: Simple font replacement
+
+## Version: 7.0
+
+## Author: Crabby654, tekkub
+
+## X-Curse-Packaged-Version: 6.0.0.18-Beta
+## X-Curse-Project-Name: tekticles
+## X-Curse-Project-ID: tekticles
+## X-Curse-Repository-ID: wow/tekticles/mainline
+## X-Category: Miscellaneous
+
+## OptionalDeps: LibSharedMedia-3.0
+
+LibStub.lua
+tekKonfigHeading.lua
+tekKonfigGroup.lua
+tekKonfigScroll.lua
+
+tekticles.lua
+sample.lua
